@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: default
 title: SensorData
 ---
 ### The site will store the sensor data
