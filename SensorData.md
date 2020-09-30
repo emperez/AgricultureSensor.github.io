@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: page
 title: Sensor Data
 ---
 ### The site will store the sensor data
